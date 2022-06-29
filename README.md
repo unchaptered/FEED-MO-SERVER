@@ -19,6 +19,6 @@ Local Codes is automatically deployed with Github Action.
 name: Deploy
 ```
 
-2. Publish new Cloudflare Token or Key : [Cloudeflare Token vs Key](https://developers.cloudflare.com/api/tokens/)
+2. Publish new Cloudflare Token or Key : [Cloudeflare Token vs Key](https://developers.cloudflare.com/api/tokens/) / [Wrangler Authentication 1](https://developers.cloudflare.com/workers/wrangler/cli-wrangler/authentication/#use-tokens)
 
 3. Set Configuration in Github Repository
